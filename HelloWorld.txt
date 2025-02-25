@@ -1,4 +1,4 @@
-Hello from GIT
+Hello from GIT :)
 
 This is an addition
 
